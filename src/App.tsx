@@ -101,7 +101,7 @@ function HeroSection() {
             apoiado por uma equipe experiente que se move rápido sem cortar atalhos.
           </p>
           <p className="text-sm md:text-base text-[#051A24] leading-relaxed">
-            Projetos a partir de R$&nbsp;5.000 por mês.
+            Transformamos ideias em produtos digitais excepcionais.
           </p>
         </div>
 
